@@ -24,6 +24,37 @@
       [
       "/sampling/campaigns/view/draft",
       "https://knowledge.bazaarvoice.com/wp-content/sampling/en_US/campaigns/view_campaigns.html#Editing"
-    ]
+    ],
+    
+     [
+      "\/curations\/welcome",
+      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice.com/report/content_snapshot.html?inPortal=true"
+    ],
+    
+     [
+      "\/curations\/collect\/.*",
+      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice.com/c3/set_up_sources.html?inPortal=true"
+    ],
+    
+    [
+      "\/curations\/curate\/content",
+      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice.com/c3/manage_content.html?inPortal=true"
+    ],
+    
+    [
+      "\/curations\/curate\/rules\/.*",
+      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice.com/c3/manage_content_with_rules.html?inPortal=true"
+    ],
+    
+     [
+      "\/curations\/engage\/.*",
+      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice.com/c3/author_permissions.html?inPortal=true"
+    ],
+    
+    [
+      "\/curations\/displays\/.*",
+      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice.com/c3/route_to_display_with_rules.html?inPortal=true"
+    ],
+    
   ]
 }
