@@ -1,5 +1,8 @@
 {
-  'mappings': [
-    ['/sampling/campaigns/view/recent', 'https://knowledge.bazaarvoice.com/wp-content/sampling/en_US/campaigns/view_campaigns.html']
+  "mappings": [
+    [
+      "/sampling/campaigns/view/recent",
+      "https://knowledge.bazaarvoice.com/wp-content/sampling/en_US/campaigns/view_campaigns.html"
+    ]
   ]
 }
