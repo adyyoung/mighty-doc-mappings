@@ -2,11 +2,11 @@
   "mappings": [
      [
       "/sampling/campaigns/view/recent",
-      "http://awsproductkw01/sisbister/The_Mighty_Docs/sample/Create_a_campaign.html"
+      "http://awsproductkw01/sisbister/The_Mighty_Docs/sample/Create_a_campaign.html?inPortal=true"
     ],
     [
       "\/sampling\/campaigns\/.*/products/search",
-      "http://awsproductkw01/sisbister/The_Mighty_Docs/sample/Add_products.html"
+      "http://awsproductkw01/sisbister/The_Mighty_Docs/sample/Add_products.html?inPortal=true"
     ],
     [
       "\/sampling\/campaigns\/.*/products/search",
