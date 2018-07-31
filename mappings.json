@@ -2,6 +2,10 @@
   "mappings": [
     [
       "\/sampling\/campaigns\/.*/products/search",
+      "http://awsproductkw01/sisbister/The_Mighty_Docs/sample/Add_products.html"
+    ],
+    [
+      "\/sampling\/campaigns\/.*/products/search",
       "https://pbs.twimg.com/profile_images/698660793265446912/cAMrktol_400x400.png"
     ],
     [
@@ -12,10 +16,7 @@
       "\/sampling\/campaigns\/.*",
       "http://awsproductkw01/jrobalino/knowledge.bazaarvoice.com/c3/set_up_sources.html?inPortal=true"
     ],
-    [
-      "/sampling/campaigns/a0d509c7-7e96-4a82-8f42-770fea43f25e/products/search",
-      "http://awsproductkw01/awsproductkw01/sisbister/The_Mighty_Docs/sample/Add_products.html"
-    ],
+    
       [
       "/sampling/campaigns/view/draft",
       "https://knowledge.bazaarvoice.com/wp-content/sampling/en_US/campaigns/view_campaigns.html#Editing"
