@@ -2,31 +2,31 @@
   "support_url": "http://knowledge.bazaarvoice.com/wp-content/conversations/en_US/Contacting_support.html",
   "mappings": [
      [
-      "/sampling/campaigns/view/recent",
-      "http://awsproductkw01/sisbister/The_Mighty_Docs/sample/Create_a_campaign.html?inPortal=true"
+      "\/sampling\/campaigns\/view.*",
+      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Create_a_campaign.html?inPortal=true",
+       "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Create_a_campaign.html"
     ],
-    [
+        [
       "\/sampling\/campaigns\/.*/products/search",
-      "http://awsproductkw01/sisbister/The_Mighty_Docs/sample/Add_products.html?inPortal=true"
+      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Add_products.html?inPortal=true",
+      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Add_products.html"
     ],
     [
-      "\/sampling\/campaigns\/.*/products/search",
-      "https://pbs.twimg.com/profile_images/698660793265446912/cAMrktol_400x400.png"
+      "\/sampling\/members.*",
+      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Create_a_campaign.html?inPortal=true",
+       "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Create_a_campaign.html"
     ],
     [
-      "\/sampling\/campaigns\/.*",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice.com/c3/set_up_sources.html?inPortal=true"
+      "\/sampling\/emails.*",
+      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Create_a_campaign.html?inPortal=true",
+       "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Create_a_campaign.html"
     ],
-    [
-      "\/sampling\/campaigns\/.*",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice.com/c3/set_up_sources.html?inPortal=true"
+
+     [
+      "\/sampling\/appmanagement.*",
+      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Add_products.html?inPortal=true",
+      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Add_products.html"
     ],
-    
-      [
-      "/sampling/campaigns/view/draft",
-      "https://knowledge.bazaarvoice.com/wp-content/sampling/en_US/campaigns/view_campaigns.html#Editing"
-    ],
-    
      [
       "\/curations\/welcome",
       "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/c3/report/content_snapshot.html?inPortal=true",
