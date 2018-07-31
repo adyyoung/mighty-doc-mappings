@@ -1,4 +1,5 @@
 {
+  "support_url": "http://somewhere",
   "mappings": [
      [
       "/sampling/campaigns/view/recent",
