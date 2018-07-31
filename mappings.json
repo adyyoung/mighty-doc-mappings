@@ -1,7 +1,7 @@
 {
   "mappings": [
     [
-      "/sampling/campaigns/view/recent",
+      "\/sampling\/campaigns\/.*",
       "http://awsproductkw01/jrobalino/knowledge.bazaarvoice.com/c3/set_up_sources.html?inPortal=true"
     ],
     [
