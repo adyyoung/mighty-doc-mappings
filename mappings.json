@@ -1,5 +1,9 @@
 {
   "mappings": [
+     [
+      "/sampling/campaigns/view/recent",
+      "http://awsproductkw01/sisbister/The_Mighty_Docs/sample/Create_a_campaign.html"
+    ],
     [
       "\/sampling\/campaigns\/.*/products/search",
       "http://awsproductkw01/sisbister/The_Mighty_Docs/sample/Add_products.html"
