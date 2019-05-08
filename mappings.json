@@ -3,64 +3,58 @@
   "mappings": [
      [
       "\/sampling\/campaigns\/view.*",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Create_a_campaign.html?inPortal=true",
-       "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Create_a_campaign.html"
+      "http://awsproductkw01/sisbister/enhanced-sampling/enhanced-sampling/en_US/campaigns.html?inPortal=true",
+       "http://awsproductkw01/sisbister/enhanced-sampling/enhanced-sampling/en_US/campaigns.html"
     ],
         [
       "\/sampling\/campaigns\/.*/products/search",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Add_products.html?inPortal=true",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Add_products.html"
+      "http://awsproductkw01/sisbister/enhanced-sampling/enhanced-sampling/en_US/create_a_campaign.html?inPortal=true",
+      "http://awsproductkw01/sisbister/enhanced-sampling/enhanced-sampling/en_US/create_a_campaign.html"
     ],
     [
       "\/sampling\/members.*",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Create_a_campaign.html?inPortal=true",
-       "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Create_a_campaign.html"
+      "http://awsproductkw01/sisbister/enhanced-sampling/enhanced-sampling/en_US/members.html?inPortal=true",
+       "http://awsproductkw01/sisbister/enhanced-sampling/enhanced-sampling/en_US/members.html"
     ],
     [
       "\/sampling\/emails.*",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Create_a_campaign.html?inPortal=true",
-       "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Create_a_campaign.html"
-    ],
-
-     [
-      "\/sampling\/appmanagement.*",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Add_products.html?inPortal=true",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/sp/sample/Add_products.html"
+      "http://awsproductkw01/sisbister/enhanced-sampling/enhanced-sampling/en_US/emails.html?inPortal=true",
+       "http://awsproductkw01/sisbister/enhanced-sampling/enhanced-sampling/en_US/emails.html"
     ],
      [
       "\/curations\/welcome",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/c3/report/content_snapshot.html?inPortal=true",
-       "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/c3/report/content_snapshot.html"
+      "https://knowledge.bazaarvoice.com/wp-content/curations/en_US/report/content_snapshot.html?inPortal=true",
+       "https://knowledge.bazaarvoice.com/wp-content/curations/en_US/report/content_snapshot.html"
     ],
     
      [
       "\/curations\/collect\/.*",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/c3/c3/set_up_sources.html?inPortal=true",
-       "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/c3/c3/set_up_sources.html"
+      "https://knowledge.bazaarvoice.com/wp-content/curations/en_US/c3/set_up_sources.html?inPortal=true",
+       "https://knowledge.bazaarvoice.com/wp-content/curations/en_US/c3/set_up_sources.html"
     ],
     
     [
       "\/curations\/curate\/content",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/c3/c3/manage_content.html?inPortal=true",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/c3/c3/manage_content.html"
+      "https://knowledge.bazaarvoice.com/wp-content/curations/en_US/c3/manage_content.html?inPortal=true",
+      "https://knowledge.bazaarvoice.com/wp-content/curations/en_US/c3/manage_content.html"
     ],
     
     [
       "\/curations\/curate\/rules.*",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/c3/c3/manage_content_with_rules2.html?inPortal=true",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/c3/c3/manage_content_with_rules.html"
+      "https://knowledge.bazaarvoice.com/wp-content/curations/en_US/c3/manage_content_with_rules.html?inPortal=true",
+      "https://knowledge.bazaarvoice.com/wp-content/curations/en_US/c3/manage_content_with_rules.html"
     ],
     
      [
       "\/curations\/engage\/.*",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/c3/c3/author_permissions.html?inPortal=true",
-       "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/c3/c3/author_permissions.html"
+      "https://knowledge.bazaarvoice.com/wp-content/curations/en_US/c3/author_permissions.html?inPortal=true",
+       "https://knowledge.bazaarvoice.com/wp-content/curations/en_US/c3/author_permissions.html"
     ],
     
     [
       "\/curations\/displays.*",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/c3/c3/route_to_display_with_rules.html?inPortal=true",
-      "http://awsproductkw01/jrobalino/knowledge.bazaarvoice/c3/c3/route_to_display_with_rules.html"
+      "https://knowledge.bazaarvoice.com/wp-content/curations/en_US/c3/route_to_display_with_rules.html?inPortal=true",
+      "https://knowledge.bazaarvoice.com/wp-content/curations/en_US/c3/route_to_display_with_rules.html"
     ]
     
   ]
